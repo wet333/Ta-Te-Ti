@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1590251517 source:c:\users\agustin wet\documents\programacion\c\letsusc_programs\chapter 3\ta-te-ti\main.c
+	"tateti.h"
+
+1590250321 c:\users\agustin wet\documents\programacion\c\letsusc_programs\chapter 3\ta-te-ti\tateti.h
+	<stdio.h>
+	<stdlib.h>
+
+1590246969 source:c:\users\agustin wet\documents\programacion\c\letsusc_programs\chapter 3\ta-te-ti\new_turn.c
+	"tateti.h"
+
+1590248487 source:c:\users\agustin wet\documents\programacion\c\letsusc_programs\chapter 3\ta-te-ti\upd_screen.c
+	"tateti.h"
+
+1590250157 source:c:\users\agustin wet\documents\programacion\c\letsusc_programs\chapter 3\ta-te-ti\check_win.c
+	"tateti.h"
+
+1590251084 source:c:\users\agustin wet\documents\programacion\c\letsusc_programs\chapter 3\ta-te-ti\movement.c
+	"tateti.h"
+
+1590252362 source:c:\users\agustin wet\documents\programacion\c\juegos_consola\ta-te-ti\check_win.c
+	"tateti.h"
+
+1590250321 c:\users\agustin wet\documents\programacion\c\juegos_consola\ta-te-ti\tateti.h
+	<stdio.h>
+	<stdlib.h>
+
+1590254055 source:c:\users\agustin wet\documents\programacion\c\juegos_consola\ta-te-ti\movement.c
+	"tateti.h"
+
+1590252532 source:c:\users\agustin wet\documents\programacion\c\juegos_consola\ta-te-ti\new_turn.c
+	"tateti.h"
+
+1590252706 source:c:\users\agustin wet\documents\programacion\c\juegos_consola\ta-te-ti\upd_screen.c
+	"tateti.h"
+
+1590252939 source:c:\users\agustin wet\documents\programacion\c\juegos_consola\ta-te-ti\main.c
+	"tateti.h"
+
