@@ -1,1 +1,1 @@
-my first c project
+Ta-Te-Ti game made with C languaje
